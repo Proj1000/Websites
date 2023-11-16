@@ -24,7 +24,7 @@ export default function Home() {
         <div className='grid'>
           <a href='/Abraham ' className='card'>
             <h3>Abraham &rarr;</h3>
-            <p>Click here to navigate to an example page</p>
+            <p></p>
           </a>
 
           <a
@@ -32,18 +32,18 @@ export default function Home() {
             className='card'>
             <h3>Ulises &rarr;</h3>
             <p>
-              Return to the Github for resources on creating your own website!
+              
             </p>
           </a>
           <a
             href='Ratna'
             className='card'>
             <h3>Ratna &rarr;</h3>
-            <p>Click here to learn more about Next.js</p>
+            <p></p>
           </a>
           <a href='Alan' className='card'>
             <h3>Alan &rarr;</h3>
-            <p>Click here to learn more about HTML and CSS</p>
+            <p></p>
           </a>{' '}
           <a href='https://tailwindcss.com/' className='card'>
             <h3>Tailwind css&rarr;</h3>

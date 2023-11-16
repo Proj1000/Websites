@@ -23,26 +23,26 @@ export default function Home() {
 
         <div className='grid'>
           <a href='/Abraham ' className='card'>
-            <h3>Example About Me Page &rarr;</h3>
+            <h3>Abraham &rarr;</h3>
             <p>Click here to navigate to an example page</p>
           </a>
 
           <a
-            href='https://github.com/vedant29/Project-CSCI-1000'
+            href='Ulises'
             className='card'>
-            <h3>Project Resources&rarr;</h3>
+            <h3>Ulises &rarr;</h3>
             <p>
               Return to the Github for resources on creating your own website!
             </p>
           </a>
           <a
-            href='https://nextjs.org/learn/foundations/about-nextjs'
+            href='Ratna'
             className='card'>
-            <h3>Next.js&rarr;</h3>
+            <h3>Ratna &rarr;</h3>
             <p>Click here to learn more about Next.js</p>
           </a>
-          <a href='https://blog.hubspot.com/website/html' className='card'>
-            <h3>HTML and CSS &rarr;</h3>
+          <a href='Alan' className='card'>
+            <h3>Alan &rarr;</h3>
             <p>Click here to learn more about HTML and CSS</p>
           </a>{' '}
           <a href='https://tailwindcss.com/' className='card'>
@@ -219,3 +219,8 @@ export default function Home() {
     </div>
   );
 }
+
+
+//git hub instructions -> https://github.com/vedant29/Project-CSCI-1000
+//learning about next.js -> https://nextjs.org/learn/foundations/about-nextjs
+//learning about html --> https://nextjs.org/learn/foundations/about-nextjs

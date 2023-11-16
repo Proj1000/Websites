@@ -45,7 +45,7 @@ export default function Home() {
             <h3>Alan &rarr;</h3>
             <p></p>
           </a>{' '}
-          <a href='https://tailwindcss.com/' className='card'>
+          <a href='/TomHolland' className='card'>
             <h3>Tailwind css&rarr;</h3>
             <p>Click here to learn more about tailwind css</p>
           </a>
@@ -224,3 +224,4 @@ export default function Home() {
 //git hub instructions -> https://github.com/vedant29/Project-CSCI-1000
 //learning about next.js -> https://nextjs.org/learn/foundations/about-nextjs
 //learning about html --> https://nextjs.org/learn/foundations/about-nextjs
+//learning about tailwind css -> https://tailwindcss.com/

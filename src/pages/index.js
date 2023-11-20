@@ -4,22 +4,22 @@ export default function Home() {
   return (
     <div className='container'>
       <Head>
-        <title>Websit</title>
+        <title>Group 20 Website</title>
         <link rel='icon' href='/favicon.ico' />
       </Head>
 
       <main>
-        <h1 className='title'>Congratulations! You've set up your webapp!</h1>
+        <h1 className='title'>Group 20</h1>
 
         <p className='description'>
-          Get started by editing <code>src/pages/index.js</code> to be your
-          project home page.
+          This is our group project for CSCI1000!!
+          {/* Get started by editing <code>src/pages/index.js</code> to be your
+          project home page. */}
         </p>
         <p className='description2'>
-          Next, each team member will create their own about me file in the
-          pages directory:{' '}
+          Below is each group members page{' '}
         </p>
-        <code>src/page/teamMemberName.js</code>
+        {/* <code>src/page/teamMemberName.js</code> */}
 
         <div className='grid'>
           <a href='/Abraham ' className='card'>

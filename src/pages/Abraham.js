@@ -10,7 +10,7 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
+            src='https://u.cubeupload.com/koteka/IMG0939.jpeg'
           />
 
           <p className='description'>
